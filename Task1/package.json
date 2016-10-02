@@ -1,0 +1,12 @@
+{
+  "name": "cm-screening-test",
+  "version": "1.0.1",
+  "description": "This is a screening test for job opportunity at careAxiom.",
+
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "author": "Muhammad Ahmed",
+  "license": "ISC"
+}
